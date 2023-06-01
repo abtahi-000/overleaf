@@ -1,0 +1,33 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{textbf{Table create}}
+\author{Abtahi Ul Alam}
+\date{May 2023}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+\begin{center}
+
+\begin{tabular}{ |c|c|c| } 
+
+ \hline
+
+ cell1 & cell2 & cell3 \\ 
+ \hline
+
+ cell4 & cell5 & cell6 \\ 
+\hline
+ cell7 & cell8 & cell9 \\ 
+ \hline
+
+ \hline
+
+\end{tabular}
+
+\end{center}
+
+\end{document}
