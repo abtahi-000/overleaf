@@ -1,0 +1,24 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{Double image}
+\author{Abtahi Ul Alam}
+\date{June 2023}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+\begin{figure}
+    \centering
+    \subfigure{
+    \includegraphics[width=\linewidth]{man.png}
+    }
+    \subfigure{
+    \includegraphics[width=\linewidth]{thanks.png}
+    }
+\end{figure}
+
+\end{document}
