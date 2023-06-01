@@ -1,0 +1,20 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{Image upload}
+\author{Abtahi Ul Alam}
+\date{June 2023}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+\begin{figure}
+    \centering
+    \includegraphics[width=\linewidth]{Gray code1.png}
+    \caption{Gray code}
+    \label{fig:enter-label}
+\end{figure}
+
+\end{document}
