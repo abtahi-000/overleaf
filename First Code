@@ -1,0 +1,18 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{First project...}
+\author{Abtahi-Ul-Alam}
+\date{April 2023}
+
+\begin{document}
+
+\maketitle
+My name is abtahi ul alam and a student of NSTU...
+
+\section{Introduction}
+\subsection{c history}
+\subsection{abtahi}
+
+
+\end{document}
