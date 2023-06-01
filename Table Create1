@@ -1,0 +1,25 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{Class 14}
+\author{Abtahi Ul Alam}
+\date{April 2023}
+
+\begin{document}
+
+\begin{table}[]
+    \centering
+    \begin{tabular}{|c|c|}
+    \hline
+       ABTAHU UL ALAM  & 500K \\
+       \hline
+       \hline
+        ASHAB UL ALAM & 1000k\\
+        \hline
+    \end{tabular}
+    \caption{Employee salary}
+    \label{tab:my_label}
+\end{table}
+
+
+\end{document}
