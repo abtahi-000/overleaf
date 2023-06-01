@@ -1,0 +1,52 @@
+\documentclass{article}
+\usepackage[a4 paper]{geometry}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{verbatim}
+\usepackage{paralist}
+\usepackage{enumitem}
+\usepackage{url,hyperref}
+
+\title{RANDOM}
+\author{Abtahi Ul Alam}
+\date{May 2023}
+
+\begin{document}
+
+\maketitle
+\section{\textit{Introduction}}
+    \begin{comment}
+\begin{center}
+    \section{ASHAB UL ALAM}\\
+    \vspace{-5mm}
+    \section{ABTAHI}
+\end{center}
+\end{comment}
+\textbf{\textit{ANIS UL ALAM}}\\
+\underline{abtahi}\\
+\section{ASHRAF20\%}\\
+\copyright\\
+\textregistered\\
+
+\begin{itemize}
+    \item  \\
+    \item \textbf{\textit{abtahi}}\\
+    
+\end{itemize}
+\begin{enumerate}
+    \item ASHAB UL ALAM\\
+\end{enumerate}
+\begin{inparaenum}[a)]
+    \item apple
+    \item banana
+
+\end{inparaenum}
+
+\begin{enumerate} [label=\roman*]
+    \item fruits
+\end{enumerate}
+
+\href{www.google.com}{owner name GOOGLE}
+
+
+
+\end{document}
